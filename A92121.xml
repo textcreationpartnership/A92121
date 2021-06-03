@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The severall fights neere Colchester in Essex. A list of the names of the knights, collonels and chiefe officers, taken and killed on both sides, 5 piece of ordnance taken, 3 colours, and 600 armes, 3 lords, divers knights and collonels, and 4000 cooped up in Colchester. Also Major Generall Lamberts victories in the North, Sir Marmaduke Langdale driven out of VVestmerland. Divers prisoners taken. Penrith and Braugham Castle taken, and Sir Marmaduke Langdale, with his forces fled to Carlisle. Pursued by the Northern Forces. June. 17. 1648. Imprimatur, Gilb. Mabbott.</title>
+            <author>Rushworth, John, 1612?-1690.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92121</idno><idno type="EEBO-CITATION">99864421</idno>
+  <idno type="VID">161827</idno>
+  <idno type="EEBO-PROQUEST">2248537971</idno>
+  
+            <idno type="STC">Wing R2329</idno>
+            <idno type="STC">Thomason E448_7</idno>
+            <idno type="PROQUEST">99864421</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864421e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92121)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161827)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E448[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The severall fights neere Colchester in Essex. A list of the names of the knights, collonels and chiefe officers, taken and killed on both sides, 5 piece of ordnance taken, 3 colours, and 600 armes, 3 lords, divers knights and collonels, and 4000 cooped up in Colchester. Also Major Generall Lamberts victories in the North, Sir Marmaduke Langdale driven out of VVestmerland. Divers prisoners taken. Penrith and Braugham Castle taken, and Sir Marmaduke Langdale, with his forces fled to Carlisle. Pursued by the Northern Forces. June. 17. 1648. Imprimatur, Gilb. Mabbott.</title>
+                  <author>Rushworth, John, 1612?-1690.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Smithurst, and are to be sold neer Hosier-Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Letters from Kendal, 12 June, and from Colchester, 15 and 16 June, the latter signed: J.R., i.e. John Rushworth. (Thomason).</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Langdale, Marmaduke Langdale, --  Baron, 1598?-1661 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Colchester (England) --  History --  Siege, 1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161827:1"/>
+            <p>The Severall FIGHTS NEERE COLCHESTER in ESSEX.</p>
+            <p>A <hi>List of the names of the Knights, Collonels and chiefe Officers, taken and killed on both sides,</hi> 5 <hi>Piece of Ordnance taken,</hi> 3 <hi>Colours, and</hi> 600 <hi>Armes,</hi> 3 <hi>Lords, divers Knights and</hi> Collonels, And 4000 cooped up in COLCHESTER.</p>
+            <p>ALSO Major Generall <hi>Lamberts</hi> Victories in the North, Sir <hi>Marmaduke Langdale</hi> driven out of <hi>VVestmerland.</hi> Divers prisoners taken.</p>
+            <p>
+               <hi>Penrith</hi> and <hi>Braugham</hi> Castle taken, and Sir <hi>Marmaduke Langdale,</hi> with his For<g ref="char:EOLhyphen"/>ces fled to <hi>Carlisle.</hi> Pursued by the NOR THERN FORCES.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>June. 17. 1648.</date>
+                           </dateline>
+                        </opener>
+                        <p>Imprimatur,</p>
+                        <closer>
+                           <signed>Gilb. Mabbott.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London</hi> Printed for <hi>Richard Smithurst,</hi> and are to be sold neer <hi>Hosier-Lane,</hi> 1648▪</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161827:2"/>
+            <pb n="1" facs="tcp:161827:2"/>
+            <head>A Letter from KENDALL in VVestmerland, Of the Victorious proceedings of Major Ge<g ref="char:EOLhyphen"/>nerall <hi>Lambert,</hi> against Sir <hi>Mar<g ref="char:EOLhyphen"/>maduke Langdale.</hi>
+            </head>
+            <opener>
+               <salute>Noble Sir,</salute>
+            </opener>
+            <p>MAjor Generall <hi>Lambert</hi> being marched to the borders of <hi>Westmerland,</hi> it gave an Alarme to Sir <hi>Marmaduke-Langdale,</hi> who presently called a Councell of War, at which it was resolved to retreat towards <hi>Carlisle.</hi>
+            </p>
+            <p>Major Generall <hi>Lambert</hi> hath with him 1200 foot, and 1500 horse, The enemy are at
+<pb n="2" facs="tcp:161827:3"/>least 5000 with fire Armes, and nigh as ma<g ref="char:EOLhyphen"/>ny more, some of which are armed.</p>
+            <p>The Lancashire Forces are expected to come shortly to joyn with us, and I hope they will be here seasonably.</p>
+            <p>The news of reducing <hi>Kent,</hi> hath quite broke the hearts of the enemy here, who are fearfull that now either the Lord Generall, or Lieutenant Generall <hi>Crumwell</hi> will march with a great strength to them.</p>
+            <p>Yet it is said, that some Companies are marching o joyn with <hi>Lungdale,</hi> from <hi>Scotland,</hi> and he hath al<g ref="char:EOLhyphen"/>ready received both Armes and money, yet the god<g ref="char:EOLhyphen"/>y peaceable Ministers there speak their minds freely against it, and labour much to prevent new wars.</p>
+            <p>Major Generall <hi>Lambert</hi> marched by <hi>Mallerstrange</hi> For<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>est in <hi>Westmerland</hi> towards <hi>Langdals</hi> body, and had some assistance from the Country (who are as weary of the Cavaliers, as fearfull of Scots.)</p>
+            <p>Upon his approach, <hi>Langdale</hi> marched through <hi>Inglewood</hi> Forrest, and fled into <hi>Carlile,</hi> but not with<g ref="char:EOLhyphen"/>out some losse, for wee have taken some prisoners in pursuit of his Reare.</p>
+            <p>Major Generall <hi>Lambert</hi> is in <hi>Penreth,</hi> which place he hath taken from <hi>Langdale,</hi> and <hi>Braugham</hi> Castle also.</p>
+            <p>They had an Alarme in <hi>Carlisle</hi> upon <hi>Langdales</hi> approach to the City, The Castle gates were shut close, and double Guard, to <hi>Caldo</hi> gate, <hi>Richard</hi> gate and <hi>Brother</hi> gate.</p>
+            <pb n="3" facs="tcp:161827:3"/>
+            <p>
+               <hi>Langdale</hi> avoyds fighting altogether. But it is said that hee expects additionall Forces, and Ammuniti<g ref="char:EOLhyphen"/>on from <hi>Scotland.</hi> But it is hoped that he will come short of his expectation.</p>
+            <closer>
+               <dateline>
+                  <hi>Kendal in Westmerland</hi>
+                  <date>the 12 <hi>of June,</hi> 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>To the Honorable <hi>William Lenthall</hi> Esq Speak<g ref="char:EOLhyphen"/>er of the Honourable House of Commons.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>THe Enemy still continues in <hi>Colchester;</hi> The great ones had a purpose last night to escape, as we hear, for their goods are shipped, and sent a party to possesse <hi>Mersey</hi> Island Fort, the better to secure their passage to Sea; but this morning early, our Horse and Dragoons possessed the Island and Fort, and so hath prevented the Enemies flight by Sea; and by Land their body cannot stir: some Horse may per<g ref="char:EOLhyphen"/>chance in the night escape, and leave the rest to slaughter. For, such is the rage of the Souldier for the losse of their Commanders, that they will hard<g ref="char:EOLhyphen"/>ly admit of quarter. Many honest people (though the meaner sort) steale out of Towne hourly to us; and all agree in one story, That the Enemy knows not which way to turne himselfe, that he is desperate, and thinks to get Conditions for themselves, by their having Sir <hi>William Masham,</hi> and others of the Com<g ref="char:EOLhyphen"/>mittee prisoners. The Generall sent a Trumpeter to see Sir <hi>William Masham,</hi> but they yet detaine the
+<pb n="4" facs="tcp:161827:4"/>Trumpeter. The Townsmen say, they had fix hun<g ref="char:EOLhyphen"/>dred men run away that night the fight was; we have five hundred prisoners, most taken from the Gates of the City: The Enemy buried of their slaine, Sixty in one Church-yard, besides what was slaine in the other part of the Town; they say, that Sir <hi>William Campion,</hi> and one Knight more, Col. <hi>Cook</hi> and two Majors, and other Officers were slaine; some priso<g ref="char:EOLhyphen"/>ners we have taken since confesse as much, and many of quality wounded; many of the prisoners of the Trained bands, (which this day the Generall releas<g ref="char:EOLhyphen"/>ed, being sore wounded) say, That they went under Col: <hi>Farre</hi> my Lord <hi>Warwicks</hi> Lieutenant Colonell, that hee lead them out into the field, and into Mr. <hi>Grimstons</hi> house; and when he and the men fled, be<g ref="char:EOLhyphen"/>ing galled with our Musketiers, hee got to the gate, and caused it to be shut, and left his men to be cut in pieces without the wall, if our Souldiers had not been more mercifull.</p>
+            <p>The Generall is close beleaguering the Town; this day Col. <hi>Ewers</hi> is come up with his Regiament, and all his Traine.</p>
+            <p>The Generall purposes to preserve the town from plunder and fire, if it be possible; though one <hi>Buxton,</hi> and the <hi>Leomons,</hi> and many more (as those that come out inform) encourages <hi>Goring</hi> and the Cavaliers to hold out: Many an honest body is undone by them; God is onely wise: for who could have found out such a way to unite the ho<g ref="char:EOLhyphen"/>nest
+<pb n="5" facs="tcp:161827:4"/>party together against this bloody and common Enemy? There are four Colonels taken at <hi>Newmarket,</hi> about to raise men for the King, Col. Sir <hi>Bar. Scudamore</hi> is one of them. If the News of any successe this Army hath, were acceptable, you would send one weeks pay to an Army that hath not had a penny this Moneth.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>June</hi> 15. 1648.</date>
+               </dateline>
+               <signed>J.R.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THE Generals Trumpeter is returned, who left Sir <hi>William Masham</hi> and the o<g ref="char:EOLhyphen"/>ther Gentlemen in a reasonable good condi<g ref="char:EOLhyphen"/>tion; he saith Sir <hi>William Campion</hi> and one Col. <hi>Cook</hi> were buried this afternoone, their corps attended by the Lord <hi>Goring,</hi> Lord <hi>Capel,</hi> Lord <hi>Louthborough,</hi> Sir <hi>William Compton,</hi> and divers other of quality. They much la<g ref="char:EOLhyphen"/>ment the losse of Major <hi>Eyres,</hi> whom they thought we had prisoner, but he was slain.</p>
+            <p>Captaine <hi>Zanchy,</hi> Who took in <hi>Mersey</hi> Fort, found two Culverins, two Sacres, and one Drake in it: Captaine <hi>Peacock,</hi> and the Commanders of the Ships at <hi>Harwich</hi>
+               <pb n="6" facs="tcp:161827:5"/>have sent to the General to assist him in the Harbour of <hi>Coln</hi> River, if the Fort at <hi>Mersey</hi> be ours, of which the General hath sent them word, Col. <hi>Steward,</hi> and Col. <hi>Thornton</hi> were taken with Sir <hi>Barn. Scudamore.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>From his Excellencies Quarters before</hi> Colch. <date>
+                     <hi>June</hi> 16 1648.</date>
+               </dateline>
+               <signed>J.R.</signed>
+            </closer>
+         </div>
+         <div type="list">
+            <head>A List of those particulars that were killed and taken prisoners in severall sights at <hi>Colchester</hi> and o<g ref="char:EOLhyphen"/>ther parts in <hi>ESSEX.</hi>
+            </head>
+            <list>
+               <label>Of the Lord <hi>Gorings</hi> men flaine.</label>
+               <item>Sir <hi>VVilliam Campion,</hi> another Knight slain also, Col: <hi>Cook,</hi> Major <hi>Eyers,</hi> a Major besides. 20 Captains, and other Officers. 150 Gentlemen and Common Soul<g ref="char:EOLhyphen"/>diers. 400 wounded.</item>
+               <label>Taken Prisoners.</label>
+               <item>Sir <hi>Barn. Scudamore,</hi> Coll. <hi>Stewart,</hi> Coll. <hi>Thornton,</hi> 2 Col. more, 50 Officers and Gentle. 450 Souldiers. <hi>Taken also,</hi> 5 peece of Ordnance. 600 Armes, 3 Cou<g ref="char:EOLhyphen"/>lours, 1000 got away by parties in the night.</item>
+               <label>Hemed in, in Colchester.</label>
+               <item>Lord <hi>Goring;</hi> Lord <hi>C<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pell,</hi> Lord <hi>Loughborough,</hi> Sir <hi>Cha. Lucas,</hi> Sir <hi>VVil. Compton</hi> Col. <hi>Buxton</hi> Col. <hi>Far,</hi> Col <hi>Lemmon, &amp;c.</hi> 4000 resolute Cavaliers of despe<g ref="char:EOLhyphen"/>rate fortunes.</item>
+               <label>On the Lord Generals party.</label>
+               <item>Coll. <hi>Needham</hi> slain. two Captains, <hi>Cox;</hi> and another Captain, 5 Officers, 30 Souldiers, 100 wounded.</item>
+            </list>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
